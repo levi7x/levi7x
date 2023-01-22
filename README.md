@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levi7x" alt="levi7x" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://simomarian.pages.dev/" />Portfolio </a>
+- 🔭 I’m currently working on <a href="https://simomarian.pages.dev/" target="_blank"/>Portfolio </a>
 
 - 🌱 I’m currently learning **ASP .NET**
 
