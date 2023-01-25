@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marián Šimo</h1>
 <h3 align="center">I am a passionate programmer, lately focusing on web development 🦄</h3>
+<h3 align="left">Check out my portfolio <a href="https://simomarian.pages.dev/" target="_blank"/>site </a> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levi7x&label=Profile%20views&color=0e75b6&style=flat" alt="levi7x" /> </p>
 
@@ -13,7 +14,7 @@
 
 - ⚡ Fun fact **I represented Slovakia in World Youth Chess Championship**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
